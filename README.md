@@ -1,5 +1,5 @@
-# Springboard 
-Area to review projects completed in the **Data Science Career Track**.
+# Data Science 
+Area to review projects completed in the **Springboard Data Science Career Track**.
 
 ## Areas of study include:
 - The Python Data Science Stack
