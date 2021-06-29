@@ -1,16 +1,4 @@
-# Data Science 
-Area to review projects completed in the **Springboard Data Science Career Track**.
+# London Housing Case Study
+Which borough of London has seen the greatest average increase in housing prices over the two decades covered by the dataset? 
 
-## Areas of study:
-- The Python Data Science Stack
-- Data Wrangling
-- The Data Story
-- Statistical Inference
-- Machine Learning
-- Software Engineering for Data Science
-- Data Science at Scale
-- Advanced Machine Learning
-
-## Projects:
-- [Data Science Guided Capstone - Big Mountain Resort](https://github.com/AutomatingSoftwareTesting/DataScienceGuidedCapstone/tree/master/Notebooks)
-- [London Housing Project](https://github.com/AutomatingSoftwareTesting/DataScience/blob/master/London%20Housing%20Project.ipynb)
+There are 32 London boroughs within Greater London and each borough has its own governing council. Some of them are more desirable to live in and will reflect that desirability in a greater rise in housing prices. 
